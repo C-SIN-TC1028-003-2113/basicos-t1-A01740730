@@ -3,9 +3,9 @@ def main():
     n1 = float(input('Dame la base: '))
     n2 = float(input('Dame la altura: '))
 
-    area = (n1 * n2)/2
+    área = (n1 * n2)/2
 
-    print('El área es: '+str(area))
+    print('El área es: '+str(área))
 
 if __name__ == '__main__':
     main()
